@@ -1,12 +1,3 @@
-<p align="center">
-	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
-<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
-<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
-<p align="center">
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
-</p>
-<p></p>
-<p></p>
-</p>
+One moment, please, we're chargin' ur laz0r… ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzer0def&count_bg=%2329DCB5&title_bg=%23C6045A&icon=&icon_color=%23E7E7E7&title=%C2%BB&edge_flat=true)
+
+![Un momento, por favor](https://github.githubassets.com/images/mona-loading-dark.gif)
