@@ -1,3 +1,3 @@
-
+A passionate advocate for open source software (OSS). I have a keen interest in cyber security and privacy, and I am constantly seeking to expand my knowledge in these areas. Additionally, I am fascinated by the world of Android custom ROMs and enjoy exploring the possibilities of flashing custom ROMs on my devices. I am always eager to learn and share my experiences with others in these fields.
 
 ![Un momento, por favor](https://github.githubassets.com/images/mona-loading-dark.gif)
